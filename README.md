@@ -1,2 +1,2 @@
 # docker
-Docker Images
+Collection of useful Dockerfiles.
